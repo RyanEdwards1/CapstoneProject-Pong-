@@ -25,10 +25,13 @@
 **Xbox Controllers** – I will be needing Xbox controllers as I will be implementing them into the game so you can control your character with either keyboard, Mouse or controller. 
 Computer – I will also need a computer with good specs so that I am able to create the game and test it as much as I want without working about filling up the hard drives or crashing the PC
 
-
-
-
 ### 1.4 Cost
+* Firstly I will be creating my Game on my PC at college and at home the PC at college does not cost me to use but at home I recently purchased a new PC which cost me around £1500. The reason I built the PC was so I can run all of our programs easily and also be able to run many tests and im big into video games.
+
+* Secondly I will be using Unity which is not a free software it is $125 a month and the project is scheduled for 3 months so that a total of $375 which I will have to pay to be able to program the game. 
+
+* Thirdly the little things that add up but are important to the project is. My travel back and forth to college costing me money in petrol and parking come to about £60 - £80 a month. Also internet bills at home which are essential for me to have internet which is about £40 a month.
+Overall this whole project will cost about £650 not including the PC that I recently built 
 
 ### 1.5 Scope 
 

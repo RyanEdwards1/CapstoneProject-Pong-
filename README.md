@@ -11,9 +11,22 @@
   
 * I want to produce a quality up to date piece of work that the users will like and want to play.  
 
-### 1.2 System Requirements
+* Possibly the most important aim of that the game will be completed by 28th March
 
-### 1.3 Software Investigation
+* I also want to always be improving my own skills in programming so thats why I am adding in the controller idea to further challenge my skills
+
+### 1.2 System Requirements
+Power Point – I will be using power point to show off my game on the 23rd February and on the 28th March. Both of these dates we will be presenting the work that we have complete up to these dates. Power Point is the best program to use for this and I have the most experience in it than any other presenting programs.
+
+Unity – I will use Unity to code my game as it supports the game that I want to create and it supports PC games so all I have to do is export it at the end. It also allows controllers to be attached to its games so that is a big help with my game it also has some helpful pointers if you get stuck. I also have past experience using Unity in other Projects
+
+Internet Access - another thing that I will be using is the internet to collect research mainly but also I will be saving work and doing documentation on GitHub so I will need the internet to access the work  
+
+Xbox Controllers – I will be needing Xbox controllers as I will be implementing them into the game so you can control your character with either keyboard, Mouse or controller. 
+Computer – I will also need a computer with good specs so that I am able to create the game and test it as much as I want without working about filling up the hard drives or crashing the PC
+
+
+
 
 ### 1.4 Cost
 

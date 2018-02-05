@@ -20,7 +20,7 @@
 
 **Unity** – I will use Unity to code my game as it supports the game that I want to create and it supports PC games so all I have to do is export it at the end. It also allows controllers to be attached to its games so that is a big help with my game it also has some helpful pointers if you get stuck. I also have past experience using Unity in other Projects
 
-**Internet Access** - another thing that I will be using is the internet to collect research mainly but also I will be saving work and doing documentation on GitHub so I will need the internet to access the work  
+**Internet Access** - Another thing that I will be using is the internet to collect research mainly but also I will be saving work and doing documentation on GitHub so I will need the internet to access the work  
 
 **Xbox Controllers** – I will be needing Xbox controllers as I will be implementing them into the game so you can control your character with either keyboard, Mouse or controller. 
 Computer – I will also need a computer with good specs so that I am able to create the game and test it as much as I want without working about filling up the hard drives or crashing the PC

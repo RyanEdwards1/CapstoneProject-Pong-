@@ -39,8 +39,10 @@ I want to keep all of the scoring and rules the same as the original game. I als
 I will be adding in new update characters and also new balls. I am also going to add so you can change the background. The score system will be the same but maybe more celebratory things will happen when someone wins/scores. But the main jest of the game will stay the same with certain add-ons like the ones above and use of controller  
 
 ### 1.6 Time Mangement/Schedule 
+Gantt Chart
 
 ### 1.7 Risks
+The only risks are that the project could run over the deadline and set the project back and this can cause more problems if the users need the program in quick time. Also if something was to happen which can knock me off course like work being wiped or something happening outside of college they can affect the completion of the game  
 
 ### 1.8 Resources
 

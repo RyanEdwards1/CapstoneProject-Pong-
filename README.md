@@ -34,6 +34,9 @@ Computer – I will also need a computer with good specs so that I am able to cr
 Overall this whole project will cost about £650 not including the PC that I recently built 
 
 ### 1.5 Scope 
+I want to keep all of the scoring and rules the same as the original game. I also want to keep the style and theme the same as that is what made Pong so good the basics of it all you had to look at was the ball going back and forth. 
+
+I will be adding in new update characters and also new balls. I am also going to add so you can change the background. The score system will be the same but maybe more celebratory things will happen when someone wins/scores. But the main jest of the game will stay the same with certain add-ons like the ones above and use of controller  
 
 ### 1.6 Time Mangement/Schedule 
 

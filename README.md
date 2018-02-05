@@ -1,14 +1,15 @@
 # CapstoneProject-Pong-
 
 ## 1.0 Project Management Documentation
+
+### 1.1 Project Aims
 * The first aim of my capstone project is to re-create a working up to date version of the first video game called Pong
   
-* Secondly I want to make the game still appeal to the people that used to play it back in the day. I don’t want to make the game too   futuristic that people dislike it
+* I also want to make the game still appeal to the people that used to play it back in the day. I don’t want to make the game too   futuristic that people dislike it
   
-* Fourthly I want to implement the use of controllers to make the game unique to me and it then adds on to the game as some people prefer to use controller
+* Another aim is to implement the use of controllers to make the game unique to me and it then adds on to the game as some people prefer to use controller
   
-* Finally, I want to produce a quality up to date piece of work that the users will like and want to play.  
-### 1.1 Project Aims
+* I want to produce a quality up to date piece of work that the users will like and want to play.  
 
 ### 1.2 System Requirements
 
